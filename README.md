@@ -1,13 +1,17 @@
 # Explicación de señales senoidales
 ***
-_Este repositorio tiene como objetivo explicar las propiedades de las señales senoidades de una manera fácil y de una manera interactiva con gráficas de este tipo de señales_
+Este repositorio tiene como objetivo explicar las propiedades de las señales senoidades de una manera interactiva, ya que grafica cada uno de los elementos de estas señales. Este notebook tiene la opción de modificar los códigos, con el fin de poder interactuar con cada uno de los conceptos explicados.
+Esto fue solicitado como una tarea de la materia _introducción a las redes de computadoras_, impartida por el doctor Adán Geovanni Medrano Chávez, en la Universidad Autónoma Metropolitana unidad Cuajimalpa.
 
 ### Contenido 📖
 ***
-* ¿Qué es una señal senoidal?
+* ¿Qué es una señal senoidal? - Brian
 *
 *
+* Amplitud - Brian
 *
+*
+* Señal compuesta - Brian
 *
 *
 
@@ -20,6 +24,6 @@ _Este repositorio tiene como objetivo explicar las propiedades de las señales s
   
 ## Contribuidores 👨‍💻
 ***
-- [Brian 🐍](https://github.com/RoboG0)
-- [Luis 🦖](https://github.com/LuisZarat)
-- [Jorge 🏋️](https://github.com/georgeif2212)
+- [Brian Rivera - 2193036861 🐍](https://github.com/RoboG0)
+- [Luis Soto - 2193035819 🦖](https://github.com/LuisZarat)
+- [Jorge Infante - 2203025256 🏋️](https://github.com/georgeif2212)
