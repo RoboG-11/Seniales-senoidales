@@ -6,14 +6,14 @@ Esto fue solicitado como una tarea de la materia _introducción a las redes de c
 ### Contenido 📖
 ***
 * ¿Qué es una señal senoidal? - Brian
-*
-*
+* Explicación de señal periódica - Jorge
+* Explicación de frecuencia - Luis
 * Amplitud - Brian
-*
-*
+* Explicación de fase - Jorge
+* Explicación de longitud de onda - Luis
 * Señal compuesta - Brian
-*
-*
+* Explicación de la importancia de las señales senoidales y señales compuestas - Jorge
+* Explicación de ancho de banda, transformada de Fourier y espectro de frecuencia- Luis
 
 ## Construido con 🛠️
 ***
